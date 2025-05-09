@@ -1,5 +1,5 @@
 # Tese UFMG: Enhancing Machine Learning Models to Evaluate Optical Water Quality Parameters of Reservoirs Through Remote Sensing Data
-Este repositóri contempla alguns dos códigos-fonte exemplificativos dos métodos desenvolvidos na tese  "Enhancing Machine Learning Models to Evaluate Optical Water Quality Parameters of Reservoirs Through Remote Sensing Data" (http://hdl.handle.net/1843/81290)
+Este repositório contempla alguns dos códigos-fonte exemplificativos dos métodos desenvolvidos na tese  "Enhancing Machine Learning Models to Evaluate Optical Water Quality Parameters of Reservoirs Through Remote Sensing Data" (http://hdl.handle.net/1843/81290)
 
 A tese de doutorado foi desenvolvido junto ao projeto “Monitoramento Inteligente da Qualidade da Água em Reservatórios Hidrelétricos Através do Desenvolvimento de um Algoritmo Fotogramétrico” — parceria entre CEMIG e UFMG — que criou o ambiente ideal para o desenvolvimento da tese (UFMG, 2020–2024).
 
