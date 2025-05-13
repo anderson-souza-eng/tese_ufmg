@@ -7,3 +7,6 @@ O estudo concentrou-se no aprimoramento de técnicas de ML para avaliação de p
 
 A orientação foi conduzida por um time multidisciplinar de excelência, fomentando um escopo de pesquisa robusto e inovador: Prof.ª Camila Costa de Amorim (UFMG), especialista em monitoramento ambiental e ecotoxicologia; Prof. Jefersson Alex dos Santos (UFMG/Universidade de Sheffield), fundador do laboratório PATREO/UFMG, referência em visão computacional e sensoriamento remoto; e Prof.ª Mauren Sguario de Andrade (UTFPR), com expertise em processamento de imagens. 
 
+## Códigos-fonte: #
+### CaptGeo: aplicação de captura de valores de pixels das 12 bandas espectrais de imagens do Satélite Sentinel-2A, executável em ambiente Colab ou local.
+- 0_Captura_Dados_Sentinel_2A_v14_01102024.ipynb
