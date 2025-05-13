@@ -11,3 +11,6 @@ A orientação foi conduzida por um time multidisciplinar de excelência, foment
 ## Códigos-fonte: #
 ### CaptGeo: aplicação de captura de valores de reflectância de pixels das 12 bandas espectrais de imagens do Satélite Sentinel-2A, executável em ambiente Colab ou local.
 - 0_Captura_Dados_Sentinel_2A_v14_01102024.ipynb
+
+### Reservoirs Water Assessment (RWA): aplicação com fluxo de modelos de Machine Learning especializados em regressão.
+- 0_Regressao_Arquivo_Base_v4_1_Turbidez_Tres_Marias_0_dias_Dados_Harmonizados_20m_Oversampling.ipynb
